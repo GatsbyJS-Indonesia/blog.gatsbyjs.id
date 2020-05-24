@@ -1,0 +1,10 @@
+- name: Eka Prasetia
+  bio: |
+    Written by Eka Prasetia who lives and works in Vancouver building useful things.
+    You should follow him on Twitter.
+  avatar: ./avatars/dennis-brotzky.jpg
+  featured: true
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://github.com
